@@ -1,3 +1,14 @@
-.left-box {
+#left-box {
     background-color: white;
+    text-align: left;
+    width: 700px;
+    height: 200px;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding: 40px;
+}
+
+.first-para {
+    font-family: 'Karla';
 }
